@@ -1,4 +1,4 @@
-<img align="center" alt ="Coding" width="100%" src="https://surajgupta0.github.io/Resume/assets/img/git-bg.gif" >
+<img align="center" alt ="Coding" width="100%" height = "500px"src="https://surajgupta0.github.io/Resume/assets/img/git-bg-sq.gif" >
 
 <h1 align="center">Hi 👋, I'm Surajkumar Gupta</h1>
 <h3 align="center">A passionate Software developer and machine learning enthusiast from India</h3>
