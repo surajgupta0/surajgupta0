@@ -1,4 +1,4 @@
-<img align="center" alt ="Coding" width="100%" src="https://media.licdn.com/dms/image/D5612AQGL2G-2nOVP_Q/article-cover_image-shrink_600_2000/0/1680819331990?e=2147483647&v=beta&t=KWCJ206ffKsPopYZ_rXjJMLvpjKnefzLndrBr42_ET0" >
+<img align="center" alt ="Coding" width="100%" src="https://www.dropbox.com/scl/fi/5sdu9wvazyv2ih2xipv9j/analyticsinsight_import_wp-content_uploads_2020_03_AI_Animated.gif?rlkey=rw6s7sel70tbsfxzgkv3tz11n&st=0k37akes&dl=0" >
 
 <h1 align="center">Hi 👋, I'm Surajkumar Gupta</h1>
 <h3 align="center">A passionate Software developer and machine learning enthusiast from India</h3>
