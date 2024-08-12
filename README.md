@@ -1,7 +1,11 @@
+
+
 <h1 align="center">Hi 👋, I'm Surajkumar Gupta</h1>
 <h3 align="center">A passionate Software developer and machine learning enthusiast from India</h3>
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2LAXKHH9iXZeruMcMuIZPe&ust=1723553843779000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCB9MzA74cDFQAAAAAdAAAAABAE">
+<img align="right" alt ="Coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2LAXKHH9iXZeruMcMuIZPe&ust=1723553843779000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCB9MzA74cDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajgupta0&label=Profile%20views&color=0e75b6&style=flat" alt="surajgupta0" /> </p>
+
+<p align="left"> <a href="https://twitter.com/suraj19022019" target="blank"><img src="https://img.shields.io/twitter/follow/suraj19022019?logo=twitter&style=for-the-badge" alt="suraj19022019" /></a> </p>
 
 - 🔭 I’m currently working on [Stock Market Analyzer Project](https://github.com/surajgupta0/Stocksavy.git)
 
@@ -23,6 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/suraj19022019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suraj19022019" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suraj-gupta-mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-gupta-mca" height="30" width="40" /></a>
 <a href="https://kaggle.com/suraj-gupta-mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suraj-gupta-mca" height="30" width="40" /></a>
 <a href="https://fb.com/surajgupta19022019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surajgupta19022019" height="30" width="40" /></a>
@@ -38,3 +43,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajgupta0&show_icons=true&locale=en&layout=compact" alt="surajgupta0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta0&show_icons=true&locale=en" alt="surajgupta0" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgupta0&" alt="surajgupta0" /></p>
