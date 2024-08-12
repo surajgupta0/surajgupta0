@@ -1,4 +1,4 @@
-<img align="center" alt ="Coding" width="100%" src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" >
+<img align="center" alt ="Coding" width="100%" src="https://media.licdn.com/dms/image/D5612AQGL2G-2nOVP_Q/article-cover_image-shrink_600_2000/0/1680819331990?e=2147483647&v=beta&t=KWCJ206ffKsPopYZ_rXjJMLvpjKnefzLndrBr42_ET0" >
 
 <h1 align="center">Hi 👋, I'm Surajkumar Gupta</h1>
 <h3 align="center">A passionate Software developer and machine learning enthusiast from India</h3>
