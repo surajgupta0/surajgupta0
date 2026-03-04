@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TYPING — readme-typing-svg by DenverCoder9 (very reliable) -->
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzY0bnRsZ2ptOTc0dWNoZHhvejdoeWkyNG12djIzdHk0Z3djdmkxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Typing SVG" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRyZmhwZndlbnNlM3Biendyb3puMXNwdTRkMTloenFnZWkydmdteSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qiru6DuC7tZuOgjtBF/giphy.gif" alt="Typing SVG" style="max-height:300px;max-with:300px;" />
 </div>
 
 <br/>
