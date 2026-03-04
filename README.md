@@ -4,11 +4,8 @@
 
 </div>
 
----
-
 <div align="center">
 
-```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║        > INITIALIZING DEVELOPER PROFILE...                   ║
@@ -16,7 +13,6 @@
 ║        > STATUS: Building the future, one commit at a time   ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
