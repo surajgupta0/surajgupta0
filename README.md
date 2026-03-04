@@ -4,12 +4,12 @@
 
 <!-- HEADER WAVE — capsule-render (very reliable, hosted on Vercel) -->
 <div align="center">
-<img width="100%" src="https://giphy.com/explore/coder" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0d1117&height=200&section=header&text=Surajkumar%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=⚡%20Full%20Stack%20Dev%20%7C%20🤖%20ML%20Engineer%20%7C%20🚀%20Builder%20of%20Smart%20Systems&descAlignY=58&descSize=17&descColor=90e0ef" />
 </div>
 
 <!-- ANIMATED TYPING — readme-typing-svg by DenverCoder9 (very reliable) -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=👨‍💻+Full+Stack+%2B+ML+Engineer+from+India;⚡+React+%7C+Django+%7C+Python+%7C+TensorFlow;📈+Building+StockSavvy+—+AI+Stock+Analyzer;🤝+Open+to+Collaborate+on+Intelligent+Apps;🧠+Turning+Raw+Data+into+Smart+Decisions" alt="Typing SVG" />
+<img src="https://giphy.com/explore/coder" alt="Typing SVG" />
 </div>
 
 <br/>
