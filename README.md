@@ -1,47 +1,123 @@
-<img align="center" alt ="Coding" width="100%" height = "400px" src="https://surajgupta0.github.io/Resume/assets/img/git-bg.gif" >
+<img align="center" width="100%" height="350px" src="https://surajgupta0.github.io/Resume/assets/img/git-bg.gif" />
 
-<h1 align="center">Hi 👋, I'm Surajkumar Gupta</h1>
-<h3 align="center">A passionate Software developer and machine learning enthusiast from India</h3>
-<img align="right" alt ="Coding" width="400" src ="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajgupta0&label=Profile%20views&color=0e75b6&style=flat" alt="surajgupta0" /> </p>
+<h1 align="center">Surajkumar Gupta</h1>
+<h3 align="center">Full Stack Developer | AI & Backend Engineer | MCA Candidate</h3>
 
-<p align="left"> <a href="https://twitter.com/suraj19022019" target="blank"><img src="https://img.shields.io/twitter/follow/suraj19022019?logo=twitter&style=for-the-badge" alt="suraj19022019" /></a> </p>
-
-- 🔭 I’m currently working on [Stock Market Analyzer Project](https://github.com/surajgupta0/Stocksavy.git)
-
-- 🌱 I’m currently learning **React, Django, and Advanced Data Analysis**
-
-- 👯 I’m looking to collaborate on **Innovative Web Applications**
-
-- 🤝 I’m looking for help with **Machine Learning Integration**
-
-- 👨‍💻 All of my projects are available at [https://surajgupta0.github.io/Resume](https://surajgupta0.github.io/Resume)
-
-- 💬 Ask me about **Pyhthon, React, Full Stack, Machine Learning**
-
-- 📫 How to reach me **kumar.suraj9918@gmail.com**
-
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/b0foa4zs4f5pjtlnyg8ef/Suraj-Resume-1.pdf?rlkey=rngl7va5s9sdbm1347dboczzm&st=n17mteo1&dl=0](https://www.dropbox.com/scl/fi/b0foa4zs4f5pjtlnyg8ef/Suraj-Resume-1.pdf?rlkey=rngl7va5s9sdbm1347dboczzm&st=n17mteo1&dl=0)
-
-- ⚡ Fun fact **I’m always looking for new ways to combine web development with machine learning.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/suraj19022019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suraj19022019" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suraj-gupta-mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj-gupta-mca" height="30" width="40" /></a>
-<a href="https://kaggle.com/suraj-gupta-mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="suraj-gupta-mca" height="30" width="40" /></a>
-<a href="https://fb.com/surajgupta19022019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="surajgupta19022019" height="30" width="40" /></a>
-<a href="https://instagram.com/surajgupta19_02_2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surajgupta19_02_2019" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techdev5240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techdev5240" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kumar_suraj9918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kumar_suraj9918" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/suraj-gupta-mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suraj-gupta-mca" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:kumar.suraj9918@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/suraj-gupta-mca">LinkedIn</a> •
+  <a href="https://github.com/surajgupta0">GitHub</a> •
+  <a href="https://surajgupta0.github.io/Resume">Portfolio</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajgupta0&show_icons=true&locale=en&layout=compact" alt="surajgupta0" /></p>
+## 👨‍💻 Professional Summary
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajgupta0&show_icons=true&locale=en" alt="surajgupta0" /></p>
+Full Stack Developer with hands-on experience in building scalable backend systems, AI-powered applications, and production-ready APIs.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajgupta0&" alt="surajgupta0" /></p>
+Currently working at **GetSetHome**, contributing to backend architecture, AI integrations, and microservices-based solutions using **FastAPI, Redis, Docker, and LLMs**.
+
+Strong interest in:
+- Artificial Intelligence & LLM Applications
+- Retrieval Augmented Generation (RAG)
+- Backend System Design
+- Scalable Web Applications
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Software Developer — GetSetHome
+- Developed scalable APIs using **FastAPI**
+- Implemented **AI-powered RAG systems** using vector databases
+- Integrated **LLM-based intelligent assistants**
+- Worked with **Redis caching & Dockerized microservices**
+- Optimized property search systems with structured database querying
+- Improved backend performance and response time
+
+---
+
+## 🔬 Featured Projects
+
+### 📊 Stock Market Analyzer  
+AI-based analytics platform for analyzing stock trends and data insights.  
+Tech Stack: Python, Data Analysis, ML
+
+🔗 Repository: https://github.com/surajgupta0/Stocksavy
+
+---
+
+### 🤖 PDF Chatifizer (AI Document Q&A System)
+- Built an intelligent document interaction system
+- Implemented **Semantic Search with Vector Embeddings**
+- Integrated LLM for contextual answers
+- Supported multi-file querying & structured chat storage
+- Achieved 95%+ text retrieval accuracy
+
+Tech Stack: FastAPI, React, ChromaDB, LLM APIs
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+Python • JavaScript • TypeScript • PHP • Java • C++
+
+### 🌐 Frontend
+React.js • Tailwind CSS • Vite • HTML5 • CSS3
+
+### ⚙️ Backend
+FastAPI • Node.js • Express.js • Django • Flask
+
+### 🗄️ Databases
+MongoDB • MySQL • Redis • SQLite
+
+### 🤖 AI / Machine Learning
+OpenAI API • Gemini API • RAG Architecture  
+Vector Databases • Pandas • Scikit-Learn • TensorFlow (Basics)
+
+### 🐳 DevOps & Tools
+Docker • Git • GitHub • Postman • Linux • CI/CD Basics
+
+---
+
+## 📚 Education
+
+🎓 Master of Computer Applications (MCA)  
+Parul University  
+
+🎓 Bachelor of Computer Applications (BCA)  
+Hinduja College, Mumbai  
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajgupta0&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajgupta0&theme=default" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced System Design
+- Django Framework
+- Scalable AI Applications
+- Cloud Deployment (AWS)
+
+---
+
+## 📫 Contact
+
+📧 Email: kumar.suraj9918@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/suraj-gupta-mca  
+
+---
+
+> “Building intelligent systems that solve real-world problems.”
