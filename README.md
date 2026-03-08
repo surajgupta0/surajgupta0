@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER BANNER - Verified Working -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Surajkumar%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Builder%20of%20Smart%20Systems&descAlignY=60&descSize=16&descColor=90e0ef" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=200&section=header&text=Surajkumar%20Gupta&fontSize=48&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20ML%20Engineer&descAlignY=65&descSize=16"/>
 
 </div>
 
 <!-- TYPING SVG - Verified Working URL -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey+there!+I'm+Surajkumar+%F0%9F%91%8B;Full+Stack+Dev+%7C+ML+Engineer;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4FA3FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Hey+there!+I'm+Surajkumar+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Engineer;Building+AI-Powered+Web+Applications;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -34,10 +34,11 @@
 </div>
 
 ---
-
 ## 🧬 About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<table>
+<tr>
+<td width="60%">
 
 ```python
 class SurajkumarGupta:
@@ -47,23 +48,30 @@ class SurajkumarGupta:
     email    = "kumar.suraj9918@gmail.com"
     
     skills = {
-        "languages" : ["Python", "JavaScript", "Java", "C++", "C#", "PHP"],
+        "languages" : ["Python", "JavaScript", "Java", "PHP"],
         "frontend"  : ["React", "HTML5", "CSS3", "Bootstrap"],
-        "backend"   : ["Django", "Flask", "Node.js", "Express", "Spring"],
-        "ml_ai"     : ["TensorFlow", "PyTorch", "OpenCV", "scikit-learn"],
-        "databases" : ["MySQL", "MongoDB", "SQLite", "Oracle", "MariaDB"],
-        "tools"     : ["Git", "Linux", "Postman", "Figma", "Selenium"],
+        "backend"   : ["FastAPI", "Django", "Flask"],
+        "ai_ml"     : ["LLM", "RAG", "TensorFlow", "scikit-learn"],
+        "databases" : ["MySQL", "MongoDB", "SQLite"],
+        "tools"     : ["Git", "Docker", "Postman", "Linux"],
     }
 
     def hello(self):
-        return "Hello World! I'm Surajkumar Gupta 👋"
+        return "Hello World! I'm Suraj 👋"
 
 me = SurajkumarGupta()
 print(me.hello())
-# → Hello World! I'm Surajkumar Gupta 👋
 ```
 
-<br clear="right"/>
+</td>
+
+<td width="40%" align="center">
+
+<img width="420" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -103,55 +111,68 @@ print(me.hello())
 </table>
 
 ---
-
-## 🛠️ Tech Stack
-
+## 🛠 Tech Stack
 <div align="center">
+<table width="100%">
+<tr align="center">
+<td width="16%"><b>Languages</b></td>
+<td width="16%"><b>Frontend</b></td>
+<td width="16%"><b>Backend</b></td>
+<td width="16%"><b>AI / ML</b></td>
+<td width="16%"><b>Database</b></td>
+<td width="16%"><b>Tools</b></td>
+</tr>
 
-### 🔤 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<tr align="center">
+<td>
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### ⚙️ Backend & Frameworks
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+</td>
 
-### 🤖 AI / ML / Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+<td>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+</td>
 
+<td>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+</td>
+
+<td>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+</td>
+
+<td>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+</td>
+
+<td>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -283,6 +304,5 @@ print(me.hello())
 
 **✨ Thanks for visiting! Drop a ⭐ if something inspired you!**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff"/>
 </div>
